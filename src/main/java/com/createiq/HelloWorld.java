@@ -13,4 +13,7 @@ public class HelloWorld {
 	public String welcome() {
 		return "welcome";
 	}
+
+	public void map(){
+}
 }
