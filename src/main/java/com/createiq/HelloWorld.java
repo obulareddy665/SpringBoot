@@ -13,7 +13,10 @@ public class HelloWorld {
 	public String welcome() {
 		return "welcome";
 	}
-
+	@REquestMapping("/welcome/addemployee")
+	public void addmethod(){
+	
+	}
 	public void map(){
 }
 }
